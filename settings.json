@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " world-craft2.aternos.me",
+    "ip": "world-craft2.aternos.me",
     "port":  55689,
     "version": "",
     "try-creative": false
